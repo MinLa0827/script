@@ -1,4 +1,4 @@
-#小改 自用 解决QuantumultX顶部国家显示中文
+//小改 自用 解决QuantumultX顶部国家显示中文
 
 if ($response.statusCode != 200) {
   $done(null);
